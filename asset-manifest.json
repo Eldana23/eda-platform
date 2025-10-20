@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eda-platform/static/css/main.943c477c.css",
+    "main.js": "/eda-platform/static/js/main.0ce09c42.js",
+    "static/js/453.25bc567c.chunk.js": "/eda-platform/static/js/453.25bc567c.chunk.js",
+    "index.html": "/eda-platform/index.html",
+    "main.943c477c.css.map": "/eda-platform/static/css/main.943c477c.css.map",
+    "main.0ce09c42.js.map": "/eda-platform/static/js/main.0ce09c42.js.map",
+    "453.25bc567c.chunk.js.map": "/eda-platform/static/js/453.25bc567c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943c477c.css",
+    "static/js/main.0ce09c42.js"
+  ]
+}
